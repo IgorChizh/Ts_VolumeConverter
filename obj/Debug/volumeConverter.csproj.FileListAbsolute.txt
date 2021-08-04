@@ -1,0 +1,10 @@
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\bin\Debug\volumeConverter.exe.config
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\bin\Debug\volumeConverter.exe
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\bin\Debug\volumeConverter.pdb
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.csproj.AssemblyReference.cache
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.volumeConverter.resources
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.Properties.Resources.resources
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.csproj.GenerateResource.cache
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.csproj.CoreCompileInputs.cache
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.exe
+C:\Users\Frost-PC\source\repos\volumeConverter\volumeConverter\obj\Debug\volumeConverter.pdb
